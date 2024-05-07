@@ -29,3 +29,10 @@ and plot it against the generation, thus observing the evolutionary process.
 * If you want to analyze the feature selection results, the feature selection result outputted at the end of the evolution is used. 
 According to the set `bit_string_length`, it undergoes binary transformation. After transformation, '1' indicates selection, and '0' indicates non-selection.
 Please note that the first two data points represent the SVM parameters c and Y, and do not need to be included in the feature selection column.
+
+## DEMO
+
+
+https://github.com/007d83QQ/IGA-SVM/assets/109134845/1084ede1-63da-46f5-affd-a4b30d995926
+
+
