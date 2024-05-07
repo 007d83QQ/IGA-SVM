@@ -2,7 +2,7 @@
 > This is a sub-project within the MicroRNA-signatures-Identify project.
 
 By combining the Intelligence Genetic Algorithm and classification algorithms, better feature selection results are achieved to handle datasets with a large 
-number of variables and a small number of samples. This project uses the Random Forest algorithm as the fitness function for the Intelligence Genetic Algorithm.
+number of variables and a small number of samples. This project uses the SVM algorithm as the fitness function for the Intelligence Genetic Algorithm.
 ## Usage
 * 1. Save the files and open them in your project.
 * 2. Change file path the encoding length of bit_string_length according to the number of variables you have in `main`(default is 16).
